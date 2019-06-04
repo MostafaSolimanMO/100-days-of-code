@@ -5,5 +5,5 @@ The log of my #100DaysOfCode challenge. Started on June 3, 2019
 ## Log
 
 ### R1D1 
-finished lesson one in "Android Basics: Networking" on "Udacity"
+finished lesson one in "Android Basics: Networking" on "Udacity", Started Earthquake report app using USGS API.
 ### R1D2

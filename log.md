@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 3, 2019
+### Day 1: June 6, 2019
 
-**Today's Progress**: I have finished lesson one in "Android Basics: Networking" on "Udacity" that talks about JSON parsing, and created "Earthquake report" app all by my code.
+**Today's Progress**: Learned about Threads in android and AsyncTask class from #Uadcity android networking course 
+It was a little bit hard and confusing  but it's done
+Tomorrow i will train to write some code for it
+**Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
 
-
-### Day 2: June 4, 2019
+### Day 2: June 7, 2019
 
 **Today's Progress**:
 
 
-**Link(s) to work**:
+**Link(s) to work**:          

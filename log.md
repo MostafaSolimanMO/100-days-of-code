@@ -14,7 +14,7 @@ Tomorrow i will train to write some code for it
 
 **Today's Progress**: Reviewed AsyncTask in Android development on Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday
 
-Installed #ReactNative dependencies (Node, Python, The React Native CLI)
+Installed ReactNative dependencies (Node, Python, The React Native CLI)
 
 **Link(s) to work**:    
 

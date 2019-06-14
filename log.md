@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 6, 2019
+### Day 1: June 8, 2019
 
 **Today's Progress**: Learned about Threads in android and AsyncTask class from #Uadcity android networking course 
 It was a little bit hard and confusing  but it's done
@@ -8,9 +8,46 @@ Tomorrow i will train to write some code for it
 **Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed
 
 
-### Day 2: June 7, 2019
+### Day 2: June 9, 2019
 
-**Today's Progress**:
+**Today's Progress**: Reviewed AsyncTask in Android development on #Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday
+Installed #ReactNative dependencies (Node, Python, The React Native CLI)🔥
+
+**Link(s) to work**:    
 
 
-**Link(s) to work**:          
+
+### Day 3: June 10, 2019
+
+**Today's Progress**: Writing networking code task in "Quake Report App" on #Udacity Android networking course and it's still not finished 
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+
+
+
+### Day 4: June 11, 2019
+
+**Today's Progress**: Really bad one, I've an network issue made me couldn't do all what I should do 😐 but I had..
+- Completed yesterday's task
+- Learned about Loaders in android
+
+**Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe
+
+### Day 5: June 12, 2019
+
+**Today's Progress**: Reviewed all concepts and code I've Learned in this 5 days..
+Http request, Threads and Parallelism, AsyncTask and Loaders
+It's still confusing, but writing code will make it easier
+
+**Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe
+
+### Day 6: June 13, 2019
+
+**Today's Progress**:Today was good
+- Reviewed all concepts in #Android Networking class on #Udacity
+- Rewrote the three apps that provided on the course to have more practice
+- Read about text's appearance, Styles, TextView and performance patterns
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+
+

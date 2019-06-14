@@ -9,11 +9,11 @@ Tomorrow i will train to write some code for it
 **Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed
 
 
+
 ### Day 2: June 9, 2019
 
 **Today's Progress**: Reviewed AsyncTask in Android development on #Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday
 Installed #ReactNative dependencies (Node, Python, The React Native CLI)
-
 
 **Link(s) to work**:    
 
@@ -35,6 +35,8 @@ Installed #ReactNative dependencies (Node, Python, The React Native CLI)
 
 **Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe
 
+
+
 ### Day 5: June 12, 2019
 
 **Today's Progress**: Reviewed all concepts and code I've Learned in this 5 days..
@@ -42,6 +44,8 @@ Http request, Threads and Parallelism, AsyncTask and Loaders
 It's still confusing, but writing code will make it easier
 
 **Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe
+
+
 
 ### Day 6: June 13, 2019
 

@@ -12,7 +12,8 @@ Tomorrow i will train to write some code for it
 
 ### Day 2: June 9, 2019
 
-**Today's Progress**: Reviewed AsyncTask in Android development on #Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday
+**Today's Progress**: Reviewed AsyncTask in Android development on Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday
+
 Installed #ReactNative dependencies (Node, Python, The React Native CLI)
 
 **Link(s) to work**:    
@@ -21,7 +22,7 @@ Installed #ReactNative dependencies (Node, Python, The React Native CLI)
 
 ### Day 3: June 10, 2019
 
-**Today's Progress**: Writing networking code task in "Quake Report App" on #Udacity Android networking course and it's still not finished 
+**Today's Progress**: Writing networking code task in "Quake Report App" on Udacity Android networking course and it's still not finished 
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
 
@@ -50,7 +51,7 @@ It's still confusing, but writing code will make it easier
 ### Day 6: June 13, 2019
 
 **Today's Progress**:Today was good
-- Reviewed all concepts in #Android Networking class on #Udacity
+- Reviewed all concepts in #Android Networking class on Udacity
 - Rewrote the three apps that provided on the course to have more practice
 - Read about text's appearance, Styles, TextView and performance patterns
 

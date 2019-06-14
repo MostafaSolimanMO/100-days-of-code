@@ -5,13 +5,15 @@
 **Today's Progress**: Learned about Threads in android and AsyncTask class from #Uadcity android networking course 
 It was a little bit hard and confusing  but it's done
 Tomorrow i will train to write some code for it
+
 **Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed
 
 
 ### Day 2: June 9, 2019
 
 **Today's Progress**: Reviewed AsyncTask in Android development on #Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday
-Installed #ReactNative dependencies (Node, Python, The React Native CLI)🔥
+Installed #ReactNative dependencies (Node, Python, The React Native CLI)
+
 
 **Link(s) to work**:    
 
@@ -27,7 +29,7 @@ Installed #ReactNative dependencies (Node, Python, The React Native CLI)🔥
 
 ### Day 4: June 11, 2019
 
-**Today's Progress**: Really bad one, I've an network issue made me couldn't do all what I should do 😐 but I had..
+**Today's Progress**: Really bad one, I've an network issue made me couldn't do all what I should do but I had..
 - Completed yesterday's task
 - Learned about Loaders in android
 

@@ -20,4 +20,4 @@ Really bad one, I've an network issue made me couldn't do all what I should do b
 Reviewed all concepts and code I've Learned in this 5 days.. Http request, Threads and Parallelism, AsyncTask and Loaders It's still confusing, but writing code will make it easier
 
 ### R1D6
-Today was good: Reviewed all concepts in #Android Networking class on Udacity, Rewrote the three apps that provided on the course to have more practice and Read about text's appearance, Styles, TextView and performance patterns
+Today was good: Reviewed all concepts in Android Networking class on Udacity, Rewrote the three apps that provided on the course to have more practice and Read about text's appearance, Styles, TextView and performance patterns

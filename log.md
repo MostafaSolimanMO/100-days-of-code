@@ -56,3 +56,9 @@ It's still confusing, but writing code will make it easier
 **Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
 
 
+
+### Day : June 14, 2019
+
+**Today's Progress**: Organized some files, Created a new repository to track my challenge's progress and Learned more about how to use Git
+**Link(s) to work**: https://github.com/MostafaSolimanMO/100-days-of-code
+

@@ -21,3 +21,6 @@ Reviewed all concepts and code I've Learned in this 5 days.. Http request, Threa
 
 ### R1D6
 Today was good: Reviewed all concepts in Android Networking class on Udacity, Rewrote the three apps that provided on the course to have more practice and Read about text's appearance, Styles, TextView and performance patterns
+
+### R1D7
+Organized some files, Created a new repository to track my challenge's progress and Learned more about how to use Git

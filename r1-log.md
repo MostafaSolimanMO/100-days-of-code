@@ -5,25 +5,28 @@ The log of my #100DaysOfCode challenge. Started on June 8, 2019
 ## Log
 
 ### R1D1 
-Learned about Threads in android and AsyncTask class from #Uadcity android networking course 
+Learned about Threads in android and AsyncTask class from #Uadcity android networking course .
 
 ### R1D2
-Reviewed AsyncTask in Android development on Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday and Installed ReactNative dependencies (Node, Python, The React Native CLI)
+Reviewed AsyncTask in Android development on Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday and Installed ReactNative dependencies (Node, Python, The React Native CLI).
 
 ### R1D3
-Writing networking code task in "Quake Report App" on Udacity Android networking course and it's still not finished
+Writing networking code task in "Quake Report App" on Udacity Android networking course and it's still not finished.
 
 ### R1D4
-Really bad one, I've an network issue made me couldn't do all what I should do but I had..Completed yesterday's task and Learned about Loaders in android
+Really bad one, I've an network issue made me couldn't do all what I should do but I had..Completed yesterday's task and Learned about Loaders in android.
 
 ### R1D5
-Reviewed all concepts and code I've Learned in this 5 days.. Http request, Threads and Parallelism, AsyncTask and Loaders It's still confusing, but writing code will make it easier
+Reviewed all concepts and code I've Learned in this 5 days.. Http request, Threads and Parallelism, AsyncTask and Loaders It's still confusing, but writing code will make it easier.
 
 ### R1D6
-Today was good: Reviewed all concepts in Android Networking class on Udacity, Rewrote the three apps that provided on the course to have more practice and Read about text's appearance, Styles, TextView and performance patterns
+Today was good: Reviewed all concepts in Android Networking class on Udacity, Rewrote the three apps that provided on the course to have more practice and Read about text's appearance, Styles, TextView and performance patterns.
 
 ### R1D7
-Organized some files, Created a new repository to track my challenge's progress and Learned more about how to use Git
+Organized some files, Created a new repository to track my challenge's progress and Learned more about how to use Git.
 
 ### R1D8
-Fixed some issues in "Earthquake report app" take me 2 hours to and some articles and updated Android studio and installed some plugins
+Fixed some issues in "Earthquake report app" take me 2 hours to and some articles and updated Android studio and installed some plugins.
+
+### R1D9
+Finally finished threads & parallelism lesson on udacity, after a full understanding of Loaders and put it into my code I got some issues then found that Loaders have been deprecated as of Android P, so I tried to learn about ViewModels and LiveData, read a lot of articles and examples but I can't get it yet, so I decided to pass it until having more practice and Explored Google Books API to get ready for the quiz of lesson 4 that create a Book Listing App..today was hard but I'm so excited about tomorrow.

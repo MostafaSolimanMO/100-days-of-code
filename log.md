@@ -63,3 +63,11 @@ It's still confusing, but writing code will make it easier
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/100-days-of-code
 
+
+
+### Day 8: June 15, 2019
+
+**Today's Progress**: Fixed some issues in "Earthquake report app" take me 2 hours to and some articles and updated Android studio and installed some plugins
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+

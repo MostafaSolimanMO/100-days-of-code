@@ -24,3 +24,6 @@ Today was good: Reviewed all concepts in Android Networking class on Udacity, Re
 
 ### R1D7
 Organized some files, Created a new repository to track my challenge's progress and Learned more about how to use Git
+
+### R1D8
+Fixed some issues in "Earthquake report app" take me 2 hours to and some articles and updated Android studio and installed some plugins

@@ -78,3 +78,10 @@ It's still confusing, but writing code will make it easier
 **Today's Progress**: Finally finished threads & parallelism lesson on udacity, after a full understanding of Loaders and put it into my code I got some issues then found that Loaders have been deprecated as of Android P, so I tried to learn about ViewModels and LiveData, read a lot of articles and examples but I can't get it yet, so I decided to pass it until having more practice and Explored Google Books API to get ready for the quiz of lesson 4 that create a Book Listing App..today was hard but I'm so excited about tomorrow.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+
+
+### Day 12: June 16, 2019
+
+**Today's Progress**: Start working on Book Listing App using Google Books API..Created the icon using Android asset studio, Built main layout using SearchView instead editText and Planned for the next steps
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing

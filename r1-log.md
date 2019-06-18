@@ -33,3 +33,6 @@ Finally finished threads & parallelism lesson on udacity, after a full understan
 
 ### R1D10
 Start working on Book Listing App using Google Books API..Created the icon using Android asset studio, Built main layout using SearchView instead editText and Planned for the next steps.
+
+### R1D11
+Still working on Book Listing App.

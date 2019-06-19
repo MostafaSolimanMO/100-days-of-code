@@ -36,3 +36,6 @@ Start working on Book Listing App using Google Books API..Created the icon using
 
 ### R1D11
 Still working on Book Listing App.
+
+### R1D12
+Still working on that damn Book Listing App.

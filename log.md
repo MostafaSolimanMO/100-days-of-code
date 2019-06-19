@@ -93,3 +93,11 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Still working on Book Listing App.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing
+
+
+
+### Day 12: June 19, 2019
+
+**Today's Progress**: Still working on Book Listing App.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing

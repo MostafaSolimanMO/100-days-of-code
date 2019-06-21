@@ -40,5 +40,8 @@ Still working on Book Listing App.
 ### R1D12
 Still working on that damn Book Listing App.
 
-### R1D12
+### R1D13
 Still working on that Book Listing App.
+
+### R1D14
+Yaaay, feeling great.. finally finished the app.

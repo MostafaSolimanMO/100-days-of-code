@@ -110,3 +110,10 @@ It's still confusing, but writing code will make it easier.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing
 
+
+
+### Day 14: June 21, 2019
+
+**Today's Progress**: Yaaay, feeling great.. finally finished the app.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing

@@ -45,3 +45,6 @@ Still working on that Book Listing App.
 
 ### R1D14
 Yaaay, feeling great.. finally finished the app.
+
+### R1D15
+Changed and added some code in Earthquake report app that was in Android Networking course on Udacity. 

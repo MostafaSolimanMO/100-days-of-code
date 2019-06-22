@@ -84,7 +84,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Start working on Book Listing App using Google Books API..Created the icon using Android asset studio, Built main layout using SearchView instead editText and Planned for the next steps.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/9f285943096e2e6ca6e26b100154dc9dd2fff054
 
 
 
@@ -92,7 +92,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Still working on Book Listing App.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/01dc5b77de37b47b02d054817e399b9ff559bcef
 
 
 
@@ -100,7 +100,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Still working on Book Listing App.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/0540e4de0f848fe9752be45cdfc6919deeeef2aa
 
 
 
@@ -108,7 +108,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Still working on Book Listing App.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/bd22ab5b5a4095eebef7475ef6f365832d25df0c
 
 
 
@@ -116,4 +116,12 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Yaaay, feeling great.. finally finished the app.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/BookListing
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/0632c92a93d1cd48cd65b078b2e386134bc378b1
+
+
+
+### Day 15: June 22, 2019
+
+**Today's Progress**: Changed and added some code in Earthquake report app that was in Android Networking course on Udacity. 
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/ef4e422ef6f992a00b0728963580237a73d244e3

@@ -125,3 +125,9 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Changed and added some code in Earthquake report app that was in Android Networking course on Udacity. 
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/ef4e422ef6f992a00b0728963580237a73d244e3
+
+
+### Day 16: June 23, 2019
+**Today's Progress**: Learned about preferences in Android that was a confusing concept and I didn't get clrealy, but I implemented it to the earthquakes report app.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/7d90ea6716995018912b81efe24d4bbac262b8e2

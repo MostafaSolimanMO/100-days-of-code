@@ -48,3 +48,6 @@ Yaaay, feeling great.. finally finished the app.
 
 ### R1D15
 Changed and added some code in Earthquake report app that was in Android Networking course on Udacity. 
+
+### R1D16
+Learned about preferences in Android that was a confusing concept and I didn't get clrealy, but I implemented it to the earthquakes report app.

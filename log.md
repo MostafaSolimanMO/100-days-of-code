@@ -135,6 +135,6 @@ It's still confusing, but writing code will make it easier.
 
 
 ### Day 17: June 24, 2019
-**Today's Progress**: still learning about preferences in Android and edited some code in the Earthquake Report app
+**Today's Progress**: Still learning about preferences in Android and edited some code in the Earthquake Report app
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/fa9725c2419e8b0dfe84e6efff41050dec5f2585

@@ -131,3 +131,10 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Learned about preferences in Android that was a confusing concept and I didn't get clrealy, but I implemented it to the earthquakes report app.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/7d90ea6716995018912b81efe24d4bbac262b8e2
+
+
+
+### Day 17: June 24, 2019
+**Today's Progress**: still learning about preferences in Android and edited some code in the Earthquake Report app
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/fa9725c2419e8b0dfe84e6efff41050dec5f2585

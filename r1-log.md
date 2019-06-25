@@ -53,4 +53,7 @@ Changed and added some code in Earthquake report app that was in Android Network
 Learned about preferences in Android that was a confusing concept and I didn't get clrealy, but I implemented it to the earthquakes report app.
 
 ### R1D17
-still learning about preferences in Android and edited some code in the Earthquake Report app
+still learning about preferences in Android and edited some code in the Earthquake Report app.
+
+### R1D18
+Edited some code in that Udacity exercise project Book Listing App, finally finished Android Networking course on Udacity, reviewed all concepts I have learned in the course, getting ready for the final project News App. 

@@ -127,6 +127,7 @@ It's still confusing, but writing code will make it easier.
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/ef4e422ef6f992a00b0728963580237a73d244e3
 
 
+
 ### Day 16: June 23, 2019
 
 **Today's Progress**: Learned about preferences in Android that was a confusing concept and I didn't get clrealy, but I implemented it to the earthquakes report app.

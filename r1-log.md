@@ -57,3 +57,6 @@ still learning about preferences in Android and edited some code in the Earthqua
 
 ### R1D18
 Edited some code in that Udacity exercise project Book Listing App, finally finished Android Networking course on Udacity, reviewed all concepts I have learned in the course, getting ready for the final project News App. 
+
+### R1D19
+Fixed error in that Book Listing App, first commit in News App that part of the Udacity Android Basics Networking Course for the Final Exercise Project

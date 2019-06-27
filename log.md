@@ -157,3 +157,11 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Fixed error in that Book Listing App, first commit in News App that part of the Udacity Android Basics Networking Course for the Final Exercise Project
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/c5e75d596c1ca7390cc3a925890c9e688d5e140c, https://github.com/MostafaSolimanMO/News-App/commit/c4563e96ec42cb38575800d395758b110f508928
+
+
+
+
+### Day 20: June 27, 2019
+
+**Today's Progress**: Attended an event that was a discussing the new technologies and the future of programming, wasn't a really good, Explored new API for that News App that I am working on, today wasn't big but considered it as a break
+**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/e4479b16d2dab4e8ca860bdc50d4abfd0d8a1dcd

@@ -31,6 +31,8 @@ Fixed some issues in "Earthquake report app" take me 2 hours to and some article
 ### R1D9
 Finally finished threads & parallelism lesson on udacity, after a full understanding of Loaders and put it into my code I got some issues then found that Loaders have been deprecated as of Android P, so I tried to learn about ViewModels and LiveData, read a lot of articles and examples but I can't get it yet, so I decided to pass it until having more practice and Explored Google Books API to get ready for the quiz of lesson 4 that create a Book Listing App..today was hard but I'm so excited about tomorrow.
 
+### R1D20
+Attended an event that was a discussing the new technologies and the future of programming, wasn't a really good, Explored new API for that News App that I am working on, today wasn't big but considered it as a break
 ### R1D10
 Start working on Book Listing App using Google Books API..Created the icon using Android asset studio, Built main layout using SearchView instead editText and Planned for the next steps.
 

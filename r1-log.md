@@ -62,3 +62,6 @@ Edited some code in that Udacity exercise project Book Listing App, finally fini
 
 ### R1D19
 Fixed error in that Book Listing App, first commit in News App that part of the Udacity Android Basics Networking Course for the Final Exercise Project
+
+### R1D21
+Working on that News App.

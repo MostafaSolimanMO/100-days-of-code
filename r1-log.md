@@ -63,5 +63,8 @@ Edited some code in that Udacity exercise project Book Listing App, finally fini
 ### R1D19
 Fixed error in that Book Listing App, first commit in News App that part of the Udacity Android Basics Networking Course for the Final Exercise Project
 
+### R1D20
+ Attended an event that was a discussing the new technologies and the future of programming, wasn't a really good, Explored new API for that News App that I am working on, today wasn't big but considered it as a break.
+ 
 ### R1D21
 Working on that News App.

@@ -171,6 +171,6 @@ It's still confusing, but writing code will make it easier.
 
 ### Day 20: June 27, 2019
 
-**Today's Progress**: Working on that News App
+**Today's Progress**: Working on that News App.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/News-App

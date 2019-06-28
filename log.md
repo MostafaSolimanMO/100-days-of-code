@@ -164,4 +164,13 @@ It's still confusing, but writing code will make it easier.
 ### Day 20: June 27, 2019
 
 **Today's Progress**: Attended an event that was a discussing the new technologies and the future of programming, wasn't a really good, Explored new API for that News App that I am working on, today wasn't big but considered it as a break
+
 **Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/e4479b16d2dab4e8ca860bdc50d4abfd0d8a1dcd
+
+
+
+### Day 20: June 27, 2019
+
+**Today's Progress**: Working on that News App
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App

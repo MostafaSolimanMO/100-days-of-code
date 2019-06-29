@@ -169,8 +169,16 @@ It's still confusing, but writing code will make it easier.
 
 
 
-### Day 20: June 27, 2019
+### Day 21: June 28, 2019
 
 **Today's Progress**: Working on that News App.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/News-App
+
+
+
+### Day 22: June 29, 2019
+
+**Today's Progress**: My internet was down today and still but I read about RecycleView in Android. 
+
+**Link(s) to work**: https://developer.android.com/guide/topics/ui/layout/recyclerview

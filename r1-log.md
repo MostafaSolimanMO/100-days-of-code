@@ -68,3 +68,6 @@ Fixed error in that Book Listing App, first commit in News App that part of the 
  
 ### R1D21
 Working on that News App.
+
+### R1D22
+My internet was down today and still but I read about RecycleView in Android.

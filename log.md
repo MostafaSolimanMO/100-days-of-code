@@ -182,3 +182,12 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: My internet was down today and still but I read about RecycleView in Android. 
 
 **Link(s) to work**: https://developer.android.com/guide/topics/ui/layout/recyclerview
+
+
+
+### Day 23: June 30, 2019
+
+**Today's Progress**: Network is back finally, try to emplement RecycleView and CardView.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/d17b752a0b3df7d0f520f9d97924ff4151a3bef8
+

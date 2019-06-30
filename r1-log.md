@@ -71,3 +71,6 @@ Working on that News App.
 
 ### R1D22
 My internet was down today and still but I read about RecycleView in Android.
+
+### R1D23
+Network is back finally, try to emplement RecycleView and CardView.

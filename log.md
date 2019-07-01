@@ -191,3 +191,10 @@ It's still confusing, but writing code will make it easier.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/d17b752a0b3df7d0f520f9d97924ff4151a3bef8
 
+
+
+### Day 24: July 1, 2019
+
+**Today's Progress**: I tried to build the News App with the best performances but I saw that will take me all month, so I decided to build another app for the exercise with only performances I've learned and I think that will be good to get me more practice on those concepts, built not a little part hope to finish it tomorrow.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App

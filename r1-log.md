@@ -77,3 +77,6 @@ Network is back finally, try to emplement RecycleView and CardView.
 
 ### R1D24
 I tried to build the News App with the best performances but I saw that will take me all month, so I decided to build another app for the exercise with only performances I've learned and I think that will be good to get me more practice on those concepts, built not a little part hope to finish it tomorrow.
+
+### R1D25
+Almost finished that News App, There is a little left just setting menw with some preference and add refresh button to Earthquake Report App, Proud of what I've achieved.

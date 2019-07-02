@@ -198,3 +198,10 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: I tried to build the News App with the best performances but I saw that will take me all month, so I decided to build another app for the exercise with only performances I've learned and I think that will be good to get me more practice on those concepts, built not a little part hope to finish it tomorrow.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App
+
+
+### Day 25: July 2, 2019
+
+**Today's Progress**: Almost finished that News App, There is a little left just setting menw with some preference and add refresh button to Earthquake Report App, Proud of what I've achieved.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App/commit/2a4a2ebd0175dbd91e6edd605b9432123943b42e, https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/e38979c9624e0ea8d5b3952a617abafd7c2673c1

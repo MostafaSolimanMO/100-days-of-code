@@ -205,3 +205,12 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Almost finished that News App, There is a little left just setting menw with some preference and add refresh button to Earthquake Report App, Proud of what I've achieved.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App/commit/2a4a2ebd0175dbd91e6edd605b9432123943b42e, https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/e38979c9624e0ea8d5b3952a617abafd7c2673c1
+
+
+
+
+### Day 26: July 3, 2019
+
+**Today's Progress**: Nice day, some edited in earthquak report app, add preference to News specifically refresh button and perference list and catch some exaptions in it.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App/commit/cfcba38d56acf3f1b18b01c946bddc8dcf069944, https://github.com/MostafaSolimanMO/Udacity-News-App/commit/3671c41de948338bdd19cb4d56b54cff52e3da71

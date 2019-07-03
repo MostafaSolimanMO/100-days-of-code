@@ -80,3 +80,6 @@ I tried to build the News App with the best performances but I saw that will tak
 
 ### R1D25
 Almost finished that News App, There is a little left just setting menw with some preference and add refresh button to Earthquake Report App, Proud of what I've achieved.
+
+### R1D26
+Nice day, some edited in earthquak report app, add preference to News specifically refresh button and perference list and catch some exaptions in it.

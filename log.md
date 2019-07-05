@@ -221,3 +221,11 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Added perferences and now app can order news by many countries and categories.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/b2995d3590c13536cefdf2233820c41aa40ac7b2
+
+
+
+### Day 28: July 5, 2019
+
+**Today's Progress**: Edited and improved. Now the app is finish. so proud, tomorow will start andoid database course on Udacity.
+
+**Link(s) to work**: [News App](https://github.com/MostafaSolimanMO/News-App)

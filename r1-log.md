@@ -83,3 +83,9 @@ Almost finished that News App, There is a little left just setting menw with som
 
 ### R1D26
 Nice day, some edited in earthquak report app, add preference to News specifically refresh button and perference list and catch some exaptions in it.
+
+### R1D27
+Added perferences and now app can order news by many countries and categories.
+
+### R1D28
+Edited and improved. Now the app is finish. so proud, tomorow will start andoid database course on Udacity.

@@ -208,9 +208,16 @@ It's still confusing, but writing code will make it easier.
 
 
 
-
 ### Day 26: July 3, 2019
 
 **Today's Progress**: Nice day, some edited in earthquak report app, add preference to News specifically refresh button and perference list and catch some exaptions in it.
 
 **Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App/commit/cfcba38d56acf3f1b18b01c946bddc8dcf069944, https://github.com/MostafaSolimanMO/Udacity-News-App/commit/3671c41de948338bdd19cb4d56b54cff52e3da71
+
+
+
+### Day 27: July 4, 2019
+
+**Today's Progress**: Added perferences and now app can order news by many countries and categories.
+
+**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/b2995d3590c13536cefdf2233820c41aa40ac7b2

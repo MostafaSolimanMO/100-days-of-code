@@ -242,6 +242,6 @@ It's still confusing, but writing code will make it easier.
 
 ### Day 30: July 7, 2019
 
-**Today's Progress**: Finished lesson one that intro to Database, leared about SQlite statment and comment and how create one and fetch data I want from it and started lesson tow that how to use SQlite in android app.
+**Today's Progress**: Finished lesson one that intro to Database, leared about SQlite statment and comment and how create one and fetch data I want from it and started lesson tow that how to use SQlite in android app and frok pets app and start commit on stating point.
 
-**Link(s) to work**: [Udacity course](https://classroom.udacity.com/courses/ud845)
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)

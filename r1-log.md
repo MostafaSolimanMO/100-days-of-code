@@ -89,3 +89,6 @@ Added perferences and now app can order news by many countries and categories.
 
 ### R1D28
 Edited and improved. Now the app is finish. so proud, tomorow will start andoid database course on Udacity.
+
+### R1D29
+Start learning about database from Android Basics: Data Storage course on Uadcity.

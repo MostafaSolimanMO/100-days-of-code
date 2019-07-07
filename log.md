@@ -229,3 +229,11 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Edited and improved. Now the app is finish. so proud, tomorow will start andoid database course on Udacity.
 
 **Link(s) to work**: [News App](https://github.com/MostafaSolimanMO/News-App)
+
+
+
+### Day 29: July 6, 2019
+
+**Today's Progress**: Start learning about database from Android Basics: Data Storage course on Uadcity.
+
+**Link(s) to work**: [Udacity course](https://classroom.udacity.com/courses/ud845)

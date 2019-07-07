@@ -237,3 +237,11 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Start learning about database from Android Basics: Data Storage course on Uadcity.
 
 **Link(s) to work**: [Udacity course](https://classroom.udacity.com/courses/ud845)
+
+
+
+### Day 30: July 7, 2019
+
+**Today's Progress**: Finished lesson one that intro to Database, leared about SQlite statment and comment and how create one and fetch data I want from it and started lesson tow that how to use SQlite in android app.
+
+**Link(s) to work**: [Udacity course](https://classroom.udacity.com/courses/ud845)

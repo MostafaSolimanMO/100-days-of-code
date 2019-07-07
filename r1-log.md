@@ -94,4 +94,4 @@ Edited and improved. Now the app is finish. so proud, tomorow will start andoid 
 Start learning about database from Android Basics: Data Storage course on Uadcity.
 
 ### R1D30
-Finished lesson one that intro to Database, leared about SQlite statment and comment and how create one and fetch data I want from it and started lesson tow that how to use SQlite in android app and frok pets app and start commit on stating point.
+Finished lesson one that intro to Database, leared about SQlite statment and comment and how create one and fetch data I want from it and started lesson tow that how to use SQlite in android app and frok pets app and start commit on the starting point.

@@ -245,3 +245,11 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Finished lesson one that intro to Database, leared about SQlite statment and comment and how create one and fetch data I want from it and started lesson tow that how to use SQlite in android app and frok pets app and start commit on the starting point.
 
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+
+
+
+### Day 31: July 8, 2019
+
+**Today's Progress**: Finished half of lesson tow that using database in android.
+
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)

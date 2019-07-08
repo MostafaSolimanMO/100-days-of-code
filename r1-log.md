@@ -95,3 +95,6 @@ Start learning about database from Android Basics: Data Storage course on Uadcit
 
 ### R1D30
 Finished lesson one that intro to Database, leared about SQlite statment and comment and how create one and fetch data I want from it and started lesson tow that how to use SQlite in android app and frok pets app and start commit on the starting point.
+
+### R1D31
+Finished half of lesson tow that using database in android.

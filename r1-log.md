@@ -98,3 +98,6 @@ Finished lesson one that intro to Database, leared about SQlite statment and com
 
 ### R1D31
 Finished half of lesson tow that using database in android.
+
+### R1D32
+Finished lesson tow that using database in android and started lesson three that ContentProvider in android, A lot of concepts and a lot of code but I'm proud of it.

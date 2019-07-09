@@ -253,3 +253,13 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Finished half of lesson tow that using database in android.
 
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+
+
+
+
+### Day 32: July 9, 2019
+
+**Today's Progress**: Finished lesson tow that using database in android and started lesson three that ContentProvider in android, A lot of concepts and a lot of code but I'm proud of it.
+
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+

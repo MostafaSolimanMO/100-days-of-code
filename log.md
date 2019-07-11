@@ -256,10 +256,16 @@ It's still confusing, but writing code will make it easier.
 
 
 
-
 ### Day 32: July 9, 2019
 
 **Today's Progress**: Finished lesson tow that using database in android and started lesson three that ContentProvider in android, A lot of concepts and a lot of code but I'm proud of it.
 
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
 
+
+
+### Day 33: July 10, 2019
+
+**Today's Progress**: Finished half of lesson three that ContentProvider in android, A lot of concepts and I feel hard.
+
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)

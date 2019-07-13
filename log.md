@@ -269,3 +269,19 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Finished half of lesson three that ContentProvider in android, A lot of concepts and I feel hard.
 
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+
+
+
+### Day 34: July 11, 2019
+
+**Today's Progress**: Wasn't a big day but I reviewed many concepts that I toke.
+
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+
+
+
+### Day 35: July 12, 2019
+
+**Today's Progress**: Wow, Lesson three is done, learned about ContentProvider and it's really confuised.
+
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)

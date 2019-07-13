@@ -104,3 +104,9 @@ Finished lesson tow that using database in android and started lesson three that
 
 ### R1D33
 Finished half of lesson three that ContentProvider in android, A lot of concepts there.
+
+### R1D34
+Wasn't a big day but I reviewed many concepts that I toke.
+ 
+### R1D35
+Wow, Lesson three is done, learned about ContentProvider and it's really confuised.

@@ -110,3 +110,6 @@ Wasn't a big day but I reviewed many concepts that I toke.
  
 ### R1D35
 Wow, Lesson three is done, learned about ContentProvider and it's really confuised.
+
+### R1D36
+Still with that ContentProvider.

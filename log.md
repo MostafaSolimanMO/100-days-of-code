@@ -285,3 +285,10 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Wow, Lesson three is done, learned about ContentProvider and it's really confuised.
 
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+
+
+### Day 36: July 13, 2019
+
+**Today's Progress**: Still with that ContentProvider.
+
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)

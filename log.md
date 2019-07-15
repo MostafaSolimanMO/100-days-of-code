@@ -287,8 +287,17 @@ It's still confusing, but writing code will make it easier.
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
 
 
+
 ### Day 36: July 13, 2019
 
 **Today's Progress**: Still with that ContentProvider.
+
+**Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+
+
+
+### Day 37: July 14, 2019
+
+**Today's Progress**: Finished Android Basics: Data Storage course on Udacity, Now I finished all Android Bacics courses on Udacity, I was waiting for this moment I am so happy, that was tough, hard and super fun yaaayyy.
 
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)

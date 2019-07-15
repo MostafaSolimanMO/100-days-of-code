@@ -113,3 +113,6 @@ Wow, Lesson three is done, learned about ContentProvider and it's really confuis
 
 ### R1D36
 Still with that ContentProvider.
+
+### R1D37
+Finished Android Basics: Data Storage course on Udacity, Now I finished all Android Bacics courses on Udacity, I was waiting for this moment I am so happy, that was tough, hard and super fun yaaayyy

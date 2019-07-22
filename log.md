@@ -301,3 +301,8 @@ It's still confusing, but writing code will make it easier.
 **Today's Progress**: Finished Android Basics: Data Storage course on Udacity, Now I finished all Android Bacics courses on Udacity, I was waiting for this moment I am so happy, that was tough, hard and super fun yaaayyy.
 
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
+
+
+Taking a break for a Week..
+
+

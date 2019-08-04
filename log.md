@@ -303,6 +303,6 @@ It's still confusing, but writing code will make it easier.
 **Link(s) to work**: [Pets App](https://github.com/MostafaSolimanMO/ud845-Pets)
 
 
-Taking a break for a Week..
+Taking a break for a while..
 
 

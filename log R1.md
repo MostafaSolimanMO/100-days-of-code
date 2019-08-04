@@ -6,7 +6,7 @@
 It was a little bit hard and confusing  but it's done
 Tomorrow i will train to write some code for it.
 
-**Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed
+**Link(s) to work**: [Udacity lesson](https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed)
 
 
 
@@ -14,7 +14,7 @@ Tomorrow i will train to write some code for it.
 
 **Today's Progress**: Reviewed AsyncTask in Android development on Udacity Android networking course and write some code by it..it's still confusing and a little bit hard but not like yesterday and Installed ReactNative dependencies (Node, Python, The React Native CLI).
 
-**Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed   
+**Link(s) to work**:  [Udacity lesson](https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/last-viewed)   
 
 
 
@@ -22,7 +22,7 @@ Tomorrow i will train to write some code for it.
 
 **Today's Progress**: Writing networking code task in "Quake Report App" on Udacity Android networking course and it's still not finished 
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+**Link(s) to work**: [Earthquake report app](https://github.com/MostafaSolimanMO/EarthquakeReport)
 
 
 
@@ -32,7 +32,7 @@ Tomorrow i will train to write some code for it.
 - Completed yesterday's task.
 - Learned about Loaders in android.
 
-**Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe
+**Link(s) to work**: [Udacity lesson](https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe)
 
 
 
@@ -42,7 +42,7 @@ Tomorrow i will train to write some code for it.
 Http request, Threads and Parallelism, AsyncTask and Loaders
 It's still confusing, but writing code will make it easier.
 
-**Link(s) to work**: https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe
+**Link(s) to work**: [Udacity lesson](https://classroom.udacity.com/courses/ud843/lessons/0fdf2184-5ea3-4751-afc6-9287274982b0/concepts/0f0a6b15-426a-480e-b9ad-f008198685fe)
 
 
 
@@ -61,7 +61,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Organized some files, Created a new repository to track my challenge's progress and Learned more about how to use Git.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/100-days-of-code
+**Link(s) to work**: [100DaysOfCode](https://github.com/MostafaSolimanMO/100-days-of-code)
 
 
 

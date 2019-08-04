@@ -156,8 +156,9 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Fixed error in that Book Listing App, first commit in News App that part of the Udacity Android Basics Networking Course for the Final Exercise Project
 
-**Link(s) to work**: -[Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/c5e75d596c1ca7390cc3a925890c9e688d5e140c)
--[News app](https://github.com/MostafaSolimanMO/News-App/commit/c4563e96ec42cb38575800d395758b110f508928)
+**Link(s) to work**: 
+- [Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/c5e75d596c1ca7390cc3a925890c9e688d5e140c)
+- [News app](https://github.com/MostafaSolimanMO/News-App/commit/c4563e96ec42cb38575800d395758b110f508928)
 
 
 
@@ -203,8 +204,9 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Almost finished that News App, There is a little left just setting menw with some preference and add refresh button to Earthquake Report App, Proud of what I've achieved.
 
-**Link(s) to work**: [Udacity news app](https://github.com/MostafaSolimanMO/Udacity-News-App/commit/2a4a2ebd0175dbd91e6edd605b9432123943b42e)
--[Earthquake report app](https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/e38979c9624e0ea8d5b3952a617abafd7c2673c1)
+**Link(s) to work**:
+- [Udacity news app](https://github.com/MostafaSolimanMO/Udacity-News-App/commit/2a4a2ebd0175dbd91e6edd605b9432123943b42e)
+- [Earthquake report app](https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/e38979c9624e0ea8d5b3952a617abafd7c2673c1)
 
 
 

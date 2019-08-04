@@ -53,7 +53,7 @@ It's still confusing, but writing code will make it easier.
 - Rewrote the three apps that provided on the course to have more practice
 - Read about text's appearance, Styles, TextView and performance patterns
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+**Link(s) to work**: [Earthquake report app](https://github.com/MostafaSolimanMO/EarthquakeReport)
 
 
 
@@ -69,7 +69,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Fixed some issues in "Earthquake report app" take me 2 hours to and some articles and updated Android studio and installed some plugins.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+**Link(s) to work**: [Earthquake report app](https://github.com/MostafaSolimanMO/EarthquakeReport)
 
 
 
@@ -77,14 +77,14 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Finally finished threads & parallelism lesson on udacity, after a full understanding of Loaders and put it into my code I got some issues then found that Loaders have been deprecated as of Android P, so I tried to learn about ViewModels and LiveData, read a lot of articles and examples but I can't get it yet, so I decided to pass it until having more practice and Explored Google Books API to get ready for the quiz of lesson 4 that create a Book Listing App..today was hard but I'm so excited about tomorrow.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/EarthquakeReport
+**Link(s) to work**: [Earthquake report app](https://github.com/MostafaSolimanMO/EarthquakeReport)
 
 
 ### Day 10: June 17, 2019
 
 **Today's Progress**: Start working on Book Listing App using Google Books API..Created the icon using Android asset studio, Built main layout using SearchView instead editText and Planned for the next steps.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/9f285943096e2e6ca6e26b100154dc9dd2fff054
+**Link(s) to work**: [Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/9f285943096e2e6ca6e26b100154dc9dd2fff054)
 
 
 
@@ -92,7 +92,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Still working on Book Listing App.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/01dc5b77de37b47b02d054817e399b9ff559bcef
+**Link(s) to work**: [Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/01dc5b77de37b47b02d054817e399b9ff559bcef)
 
 
 
@@ -100,7 +100,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Still working on Book Listing App.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/0540e4de0f848fe9752be45cdfc6919deeeef2aa
+**Link(s) to work**: [Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/0540e4de0f848fe9752be45cdfc6919deeeef2aa)
 
 
 
@@ -108,7 +108,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Still working on Book Listing App.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/bd22ab5b5a4095eebef7475ef6f365832d25df0c
+**Link(s) to work**: [Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/bd22ab5b5a4095eebef7475ef6f365832d25df0c)
 
 
 
@@ -116,7 +116,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Yaaay, feeling great.. finally finished the app.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/0632c92a93d1cd48cd65b078b2e386134bc378b1
+**Link(s) to work**: [Book Listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/0632c92a93d1cd48cd65b078b2e386134bc378b1)
 
 
 
@@ -124,7 +124,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Changed and added some code in Earthquake report app that was in Android Networking course on Udacity. 
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/ef4e422ef6f992a00b0728963580237a73d244e3
+**Link(s) to work**: [Earthquake report app](https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/ef4e422ef6f992a00b0728963580237a73d244e3)
 
 
 
@@ -132,7 +132,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Learned about preferences in Android that was a confusing concept and I didn't get clrealy, but I implemented it to the earthquakes report app.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/7d90ea6716995018912b81efe24d4bbac262b8e2
+**Link(s) to work**: [Earthquake report app](https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/7d90ea6716995018912b81efe24d4bbac262b8e2)
 
 
 
@@ -156,7 +156,8 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Fixed error in that Book Listing App, first commit in News App that part of the Udacity Android Basics Networking Course for the Final Exercise Project
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/c5e75d596c1ca7390cc3a925890c9e688d5e140c, https://github.com/MostafaSolimanMO/News-App/commit/c4563e96ec42cb38575800d395758b110f508928
+**Link(s) to work**: -[Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/c5e75d596c1ca7390cc3a925890c9e688d5e140c)
+-[News app](https://github.com/MostafaSolimanMO/News-App/commit/c4563e96ec42cb38575800d395758b110f508928)
 
 
 
@@ -165,7 +166,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Attended an event that was a discussing the new technologies and the future of programming, wasn't a really good, Explored new API for that News App that I am working on, today wasn't big but considered it as a break
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/e4479b16d2dab4e8ca860bdc50d4abfd0d8a1dcd
+**Link(s) to work**:[News app](https://github.com/MostafaSolimanMO/News-App/commit/e4479b16d2dab4e8ca860bdc50d4abfd0d8a1dcd)
 
 
 
@@ -173,7 +174,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Working on that News App.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App
+**Link(s) to work**:[News app](https://github.com/MostafaSolimanMO/News-App)
 
 
 
@@ -181,15 +182,13 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: My internet was down today and still but I read about RecycleView in Android. 
 
-**Link(s) to work**: https://developer.android.com/guide/topics/ui/layout/recyclerview
-
 
 
 ### Day 23: June 30, 2019
 
 **Today's Progress**: Network is back finally, try to emplement RecycleView and CardView.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/d17b752a0b3df7d0f520f9d97924ff4151a3bef8
+**Link(s) to work**: [News app](https://github.com/MostafaSolimanMO/News-App/commit/d17b752a0b3df7d0f520f9d97924ff4151a3bef8)
 
 
 
@@ -197,14 +196,15 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: I tried to build the News App with the best performances but I saw that will take me all month, so I decided to build another app for the exercise with only performances I've learned and I think that will be good to get me more practice on those concepts, built not a little part hope to finish it tomorrow.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App
+**Link(s) to work**: [Udcity news app](https://github.com/MostafaSolimanMO/Udacity-News-App)
 
 
 ### Day 25: July 2, 2019
 
 **Today's Progress**: Almost finished that News App, There is a little left just setting menw with some preference and add refresh button to Earthquake Report App, Proud of what I've achieved.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App/commit/2a4a2ebd0175dbd91e6edd605b9432123943b42e, https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/e38979c9624e0ea8d5b3952a617abafd7c2673c1
+**Link(s) to work**: [Udacity news app](https://github.com/MostafaSolimanMO/Udacity-News-App/commit/2a4a2ebd0175dbd91e6edd605b9432123943b42e)
+-[Earthquake report app](https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/e38979c9624e0ea8d5b3952a617abafd7c2673c1)
 
 
 
@@ -212,7 +212,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Nice day, some edited in earthquak report app, add preference to News specifically refresh button and perference list and catch some exaptions in it.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Udacity-News-App/commit/cfcba38d56acf3f1b18b01c946bddc8dcf069944, https://github.com/MostafaSolimanMO/Udacity-News-App/commit/3671c41de948338bdd19cb4d56b54cff52e3da71
+**Link(s) to work**: [Udcity news app](https://github.com/MostafaSolimanMO/Udacity-News-App/commit/cfcba38d56acf3f1b18b01c946bddc8dcf069944)
 
 
 
@@ -220,7 +220,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Added perferences and now app can order news by many countries and categories.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/News-App/commit/b2995d3590c13536cefdf2233820c41aa40ac7b2
+**Link(s) to work**: [Udacity news app](https://github.com/MostafaSolimanMO/News-App/commit/b2995d3590c13536cefdf2233820c41aa40ac7b2)
 
 
 

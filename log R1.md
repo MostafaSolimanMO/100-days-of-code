@@ -140,7 +140,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Still learning about preferences in Android and edited some code in the Earthquake Report app.
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/fa9725c2419e8b0dfe84e6efff41050dec5f2585
+**Link(s) to work**: [Earthquake report app](https://github.com/MostafaSolimanMO/Earthquake-Report-App/commit/fa9725c2419e8b0dfe84e6efff41050dec5f2585)
 
 
 
@@ -148,7 +148,7 @@ It's still confusing, but writing code will make it easier.
 
 **Today's Progress**: Edited some code in that Udacity exercise project Book Listing App, finally finished Android Networking course on Udacity, reviewed all concepts I have learned in the course, getting ready for the final project News App. 
 
-**Link(s) to work**: https://github.com/MostafaSolimanMO/Book-Listing-App/commit/83c577c220cb2369d4d42e93f0fbacc52c1f1c1b
+**Link(s) to work**: [Book listing app](https://github.com/MostafaSolimanMO/Book-Listing-App/commit/83c577c220cb2369d4d42e93f0fbacc52c1f1c1b)
 
 
 

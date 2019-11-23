@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+## Round One
 ### Day 1: June 8, 2019
 
 **Today's Progress**: Learned about Threads in android and AsyncTask class from #Uadcity android networking course 
@@ -306,5 +306,3 @@ It's still confusing, but writing code will make it easier.
 
 
 Taking a break for a while..
-
-

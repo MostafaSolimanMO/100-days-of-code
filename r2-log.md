@@ -12,3 +12,6 @@ Solved two problems -Repeated String- and -Missing Numbers- on HackerRank, revie
 
 ### R2D3
 Solved two problems -String Construction- and -Two Strings- on HackerRank, learned some ML concepts and the difference between the different types of ML learning algorithms and learned about using Room DB in Android with java
+
+### R2D4
+Solved one problem -Sherlock and Array- on HackerHank and learned about model representation and linear regression with one variable function 

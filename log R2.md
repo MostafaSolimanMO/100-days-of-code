@@ -27,3 +27,13 @@
 - Learned about using Room DB in Android with java
 
 **Link(s) to work**: [HackerRank problem 1](http://hr.gs/dmd), [HackerRank problem 2](http://hr.gs/fnu)
+
+
+### Day 4: Nov 26, 2019
+
+**Today's Progress**: 
+- Solved one problem -Sherlock and Array- on HackerRank
+- Learned about model representation and linear regression with one variable function 
+
+
+**Link(s) to work**: [HackerRank problem 1](http://hr.gs/afddba)

@@ -15,3 +15,6 @@ Solved two problems -String Construction- and -Two Strings- on HackerRank, learn
 
 ### R2D4
 Solved one problem -Sherlock and Array- on HackerHank and learned about model representation and linear regression with one variable function 
+
+### R2D5
+Just solved one problem -Viral Advertising- on HackerRank

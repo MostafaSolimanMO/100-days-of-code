@@ -35,5 +35,12 @@
 - Solved one problem -Sherlock and Array- on HackerRank
 - Learned about model representation and linear regression with one variable function 
 
-
 **Link(s) to work**: [HackerRank problem 1](http://hr.gs/afddba)
+
+
+### Day 5: Nov 27, 2019
+
+**Today's Progress**: 
+- Just solved one problem -Viral Advertising- on HackerRank
+
+**Link(s) to work**: [HackerRank problem 1](http://hr.gs/afeebf)

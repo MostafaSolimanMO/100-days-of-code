@@ -18,3 +18,6 @@ Solved one problem -Sherlock and Array- on HackerHank and learned about model re
 
 ### R2D5
 Just solved one problem -Viral Advertising- on HackerRank
+
+### R2D6
+Solved two problem  -Halloween Sale- and -Angry Professor- on HackerRank and I got my first freelance project - android app- today so, I have a lot to do this week 

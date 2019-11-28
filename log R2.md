@@ -44,3 +44,12 @@
 - Just solved one problem -Viral Advertising- on HackerRank
 
 **Link(s) to work**: [HackerRank problem 1](http://hr.gs/afeebf)
+
+
+### Day 6: Nov 28, 2019
+
+**Today's Progress**: 
+- Solved two problem  -Halloween Sale- and -Angry Professor- on HackerRank 
+- I got my first freelance project - android app- today so I have a lot to do this week 
+
+**Link(s) to work**: [HackerRank problem 1](http://hr.gs/98ar), [HackerRank problem 2](http://hr.gs/dkb)

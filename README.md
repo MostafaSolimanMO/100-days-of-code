@@ -1,5 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
-
+# I no longer publish my progress here, follow me on [Twitter](https://twitter.com/MmoSoliman) 
 ## Contents
 
 * [Rules](rules.md)
